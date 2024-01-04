@@ -132,7 +132,7 @@ comment:
     type: gitalk
     client_id: 7f2bca886d41a0b31a8d
     client_secret: b973d66afe9f2cc8b37623602e8d8ec047f64a69
-    repo: https://github.com/jianzs/personal-website
+    repo: personal-website
     owner: jianzs
     admin:
         - jianzs

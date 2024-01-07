@@ -194,7 +194,7 @@ widgets:
         type: links
         # Names and URLs of the sites
         links:
-            Pluto: https://github.com/pluto-lang/pluto
+            🌟Pluto: https://github.com/pluto-lang/pluto
     # Categories widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
